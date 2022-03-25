@@ -1,0 +1,57 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+#Quadrato{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 900px;
+  height: 520px;
+  margin:0 auto;
+  border-radius: 10px;
+  padding: 100px;
+}
+#Logo{
+  width: 250px;
+  display: block;
+  margin:0 auto;
+}
+h1{
+  font-family: sans-serif;
+  color: #08dc04;
+  text-align: center;
+}
+#Opzioni{
+  width: 900px;
+  height: 15px;
+  background-color: #08dc04;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.monopattini{
+  font-family: sans-serif;
+  color: #ffffff;
+}
+.mono{
+  display: inline-block;
+  font-size: 25px;
+}
+#Carica1{
+  width: 300px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 5px;
+}
+#Carica2{
+  width: 500px;
+  height: 20px;
+  background-color: green;
+  border-radius: 5px;
+}
+#Carica3{
+  width: 150px;
+  height: 20px;
+  background-color: tomato;
+  border-radius: 5px;
+}
